@@ -8,6 +8,8 @@ I built this game using HTML + CSS + JS, and I wanted to practice OOP, Async Fun
 - JS updates the DOM as players take turns
 - Visual game tracking as well as console log updates
 
+## [Try Out Here!](https://tic-tac-toe-beta-red-28.vercel.app/)
+
 
 
 
